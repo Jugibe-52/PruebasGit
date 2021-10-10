@@ -4,4 +4,4 @@ Añado una linea
 
 nuevo cambio
 
-cambio en remoto
+cambio realizado en remoto
